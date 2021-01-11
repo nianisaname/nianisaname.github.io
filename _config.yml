@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: Satoshi 
 language: zh-CN
-timezone: 'Aisa/Shanghai'
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
